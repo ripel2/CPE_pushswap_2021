@@ -1,0 +1,15 @@
+a.out
+push_swap
+push_swap_b
+unit_tests
+
+.idea
+.idea/
+.vscode
+.vscode/
+*.xml
+
+*.gcda
+*.gcno
+
+vgcore.*
